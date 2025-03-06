@@ -8,7 +8,7 @@ Python request Base Api using Cookies (.ROBLOSECURITY) non capcha case only , Fo
 - Validate Existing Cookies
 - Refresh new cookies
 - Block/Unblock
-- Change Password (Require combo)
+- Change Password (Require Proxy)
 ------------------------------------------------
   Email
 - Create temp email and auto add to existing roblox account
