@@ -21,5 +21,13 @@ Requirement
 How to use
 - put cookies to file then run
 
+Favorite game
+------------------------------------------------
+Requirement
+- cookies
+
+How to use
+- put cookies to file then run
+- You can change which game you want using id game in variable "game_ids" in file favorite-selenium.py
 
 CODED BY CHATGPT // THIS REPOSITORY PROVIDED FOR EDUCATION ONLY.
