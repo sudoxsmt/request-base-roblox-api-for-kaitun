@@ -18,7 +18,7 @@ Python request Base Api using Cookies (.ROBLOSECURITY) non capcha case only , Fo
 ------------------------------------------------
   Experience
 - 🟨 Favorite Game
-- 🟨 Notify Game
+- ✅ Notify Game
 ------------------------------------------------
   Extra (Selenium-chrome-base)
 - ✅ Add friend
