@@ -2,9 +2,9 @@
 Python request Base Api using Cookies (.ROBLOSECURITY) non capcha case only , For avoid 429 (rate limit) use proxy.
 
   Account
-- 🟨 Change Display Name
-- 🟨 Change Description
-- 🟨 Set Social Account
+- ✅ Change Display Name
+- ✅ Change Description
+- ✅ Set Social Account
 - ✅ Validate Existing Cookies
 - ✅ Refresh new cookies
 - ✅ Block/Unblock
