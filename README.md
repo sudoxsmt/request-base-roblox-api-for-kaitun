@@ -12,9 +12,9 @@ Python request Base Api using Cookies (.ROBLOSECURITY) non capcha case only , Fo
 - ✅ Humanize Avater support 10 bundles can add more (Require Proxy)
 ------------------------------------------------
   Email
-- 🟨 Create temp email and auto add to existing roblox account
+- ✅ Create temp email and auto add to existing roblox account (Red Email)
 - 🟨 Create temp email and auto verified existing roblox account email with temp email
-- 🟨 Autogen temp email
+- ✅ Auto generated temp email
 ------------------------------------------------
   Experience
 - 🟨 Favorite Game (API)
