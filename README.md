@@ -17,11 +17,12 @@ Python request Base Api using Cookies (.ROBLOSECURITY) non capcha case only , Fo
 - 🟨 Autogen temp email
 ------------------------------------------------
   Experience
-- 🟨 Favorite Game
+- 🟨 Favorite Game (API)
 - ✅ Notify Game
 ------------------------------------------------
   Extra (Selenium-chrome-base)
 - ✅ Add friend
+- ✅ Favorite Game
 - ✅ Recieve Friend
 ------------------------------------------------
 THIS REPOSITORY PROVIDED FOR EDUCATION ONLY.
