@@ -9,6 +9,7 @@ Python request Base Api using Cookies (.ROBLOSECURITY) non capcha case only , Fo
 - Refresh new cookies
 - Block/Unblock
 - Change Password (Require Proxy)
+- Humanize Avater support 10 bundles can add more (Require Proxy)
 ------------------------------------------------
   Email
 - Create temp email and auto add to existing roblox account
