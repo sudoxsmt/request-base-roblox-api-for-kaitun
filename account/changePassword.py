@@ -105,7 +105,6 @@ def process_cookies(file_path, success_path, false_path, pattern_password,countP
                 if len(parts) > 1:
                     parts2 = parts[0].split(':')
                     idLogin = parts2[0]
-                    countPassword = 8
                     idOldPassword = parts2[1]
                     char_set = string.ascii_letters + string.digits + "!@$*=_-!@$*=_-"
                     newPass = f'{pattern_password}{''.join(random.choice(char_set) for _ in range(countPassword))}'
